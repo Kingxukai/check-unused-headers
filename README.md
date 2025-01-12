@@ -41,3 +41,7 @@ Instead, it incorrectly detects the following:
 ```
 
 If you encounter any other issues, feel free to open an issue!
+
+# Compare to include-what-you-use
+This tool is simpler but less stable<br>
+[include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
