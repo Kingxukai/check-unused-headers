@@ -1,5 +1,5 @@
 # Introduction
-This is a simple script to check whether there is any unsed headers in C code file.
+This is a simple script to check whether there are any unsed headers in C code file.
 
 # Demonstrate
 ![Linux driver code](https://vhs.charm.sh/vhs-2dICsKypiMC7hq5DtIdcDr.gif)
