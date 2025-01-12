@@ -19,10 +19,20 @@ $ cuh --help
 $ which python3
 /path/to/python3
 ```
-
-2. Seconf method
+> use this path in the script first line
+> and then
 ``` bash
-python3 cuh file.c
+$ ./cuh file.c
+or
+$ mkdir -p /usr/local/script
+$ cp cuh /usr/local/script/
+$ export PATH=/usr/local/script/:$PATH
+$ cuh file.c
+```
+
+2. Second method
+``` bash
+python3 ./cuh file.c
 ```
 
 # Current Problem
