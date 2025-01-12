@@ -44,4 +44,6 @@ If you encounter any other issues, feel free to open an issue!
 
 # Compare to include-what-you-use
 This tool is simpler but less stable<br>
-[include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)
+[include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)<br>
+![include-what-you-use](https://vhs.charm.sh/vhs-3T3xLg3HnhjvlV2xw7Kyzb.gif)
+
