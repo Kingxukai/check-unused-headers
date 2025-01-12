@@ -7,7 +7,7 @@ This is a simple script to check whether there are any unsed headers in C code f
 
 # Install
 ``` bash
-git clone https://github.com/Kingxukai/check_unused_headers.git
+git clone https://github.com/Kingxukai/check-unused-headers.git
 ```
 
 # Usage
