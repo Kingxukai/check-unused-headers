@@ -24,3 +24,20 @@ $ which python3
 ``` bash
 python3 cuh file.c
 ```
+
+# Current Problem
+This tool cannot detect structures defined like this:
+``` c
+/* headers.h */
+struct values {
+	int a;
+	int b;
+};
+```
+
+Instead, it incorrectly detects the following:
+``` python
+{'struct values;', 'int a;', 'int b;' }
+```
+
+If you encounter any other issues, feel free to open an issue!
